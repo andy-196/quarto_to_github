@@ -3,4 +3,4 @@
 
 1. File → New Project → 创建Quarto Book。
 
-2. _quarto.yml中_output-dir: _book。
+2. _quarto.yml中_output-dir: docs。

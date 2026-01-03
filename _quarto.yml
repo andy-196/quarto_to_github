@@ -1,6 +1,10 @@
 project:
   type: book
   output-dir: docs
+  
+website:
+  page-footer:
+    right: "Powered by Quarto and ChatGPT"
 
 book:
   title: "quarto_to_github"
