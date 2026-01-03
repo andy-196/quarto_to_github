@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_to_github",
+    "section": "",
+    "text": "Preface\nThis is a Quarto to GitHub book.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "install.html",
+    "href": "install.html",
+    "title": "1  Install",
+    "section": "",
+    "text": "下载安装 Git。\n安装时一路默认即可。",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Install</span>"
+    ]
+  },
+  {
+    "objectID": "quarto_book.html",
+    "href": "quarto_book.html",
+    "title": "2  Quarto_Book",
+    "section": "",
+    "text": "File → New Project → 创建Quarto Book。\n_quarto.yml中_output-dir: _book。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto_Book</span>"
+    ]
+  },
+  {
+    "objectID": "publish.html",
+    "href": "publish.html",
+    "title": "3  Publish",
+    "section": "",
+    "text": "详询ChatGPT",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Publish</span>"
+    ]
+  }
+]

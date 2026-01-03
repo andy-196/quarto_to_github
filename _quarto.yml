@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "quarto_to_github"
+  author: "Andy"
+  date: "2026/1/3"
+  chapters:
+    - index.qmd
+    - install.qmd
+    - quarto_book.qmd
+    - publish.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
