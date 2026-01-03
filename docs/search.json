@@ -24,7 +24,7 @@
     "href": "quarto_book.html",
     "title": "2  Quarto_Book",
     "section": "",
-    "text": "File → New Project → 创建Quarto Book。\n_quarto.yml中_output-dir: _book。",
+    "text": "File → New Project → 创建Quarto Book。\n_quarto.yml中_output-dir: docs。",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto_Book</span>"
     ]
